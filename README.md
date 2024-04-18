@@ -1,5 +1,5 @@
-# Hi there 👋
-## 💻 About me:
+<h1>Hi there 👋</h1> 
+<h2>💻 About me:</h2> 
 I'm Alice and I study Computer Science at UNIFE University.
 
 Here you can find my school and personal projects.
