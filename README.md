@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## 💻 About me:
 I study Computer Science at UNIFE University. Here you can find my school and personal projects.
 
@@ -6,6 +6,8 @@ I study Computer Science at UNIFE University. Here you can find my school and pe
 
 ## 💻 Coding knowledge:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' width="50" height="50">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg' width="50" height="50">
+
 
 <!--
 **zalambaniUNIFE/zalambaniUNIFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
