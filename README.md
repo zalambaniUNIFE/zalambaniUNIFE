@@ -1,6 +1,8 @@
 # Hi there 👋
 ## 💻 About me:
-I study Computer Science at UNIFE University. Here you can find my school and personal projects.
+I'm Alice and I study Computer Science at UNIFE University.
+
+Here you can find my school and personal projects.
 
 [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/AliceZalambani)
 
