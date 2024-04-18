@@ -4,7 +4,8 @@ I study Computer Science at UNIFE University. Here you can find my school and pe
 
 [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/AliceZalambani)
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' width="50" height="50">
+## 💻 Coding knowledge:
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' width="50" height="50">
 
 <!--
 **zalambaniUNIFE/zalambaniUNIFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
