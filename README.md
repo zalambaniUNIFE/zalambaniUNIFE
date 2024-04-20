@@ -12,8 +12,7 @@ Here you can find my school and personal projects.
           
           
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=zalambaniUNIFE&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=zalambaniUNIFE&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
           
           
           
