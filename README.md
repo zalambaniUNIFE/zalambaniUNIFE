@@ -14,7 +14,7 @@ Here you can find my school and personal projects.
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=zalambaniUNIFE&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)    
 
 
-### Jam With me:
+### Jam with me:
 Coding with music is better!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alice.zalambani03&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=alice.zalambani03&redirect=true)
